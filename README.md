@@ -1,2 +1,1 @@
-# EC2_IP-ICMP
-EC2: IP e ICMP
+# EC2: IP e ICMP
